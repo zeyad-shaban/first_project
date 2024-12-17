@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/turtle_eater
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+turtle_eater/__init__.py
+turtle_eater.egg-info/PKG-INFO
+turtle_eater.egg-info/SOURCES.txt
+turtle_eater.egg-info/dependency_links.txt
+turtle_eater.egg-info/requires.txt
+turtle_eater.egg-info/top_level.txt
+turtle_eater.egg-info/zip-safe
